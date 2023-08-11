@@ -1,3 +1,4 @@
+// https://www.hackerrank.com/challenges/and-product/problem 
 #include<iostream>
 #include<bits/stdc++.h>
 #define endl "\n"
