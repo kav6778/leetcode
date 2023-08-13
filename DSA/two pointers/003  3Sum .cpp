@@ -1,4 +1,5 @@
 //https://leetcode.com/problems/3sum/description/
+
 // Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i!= k, and j != k, and nums[i] + nums[j] + nums[k] == 0.
 // Notice that the solution set must not contain duplicate triplets.
 
@@ -13,6 +14,7 @@
 // The distinct triplets are [-1,0,1] and [-1,-1,2].
 // Notice that the order of the output and the order of the triplets does not matter.
 
+// Solution Explanation - https://leetcode.com/problems/3sum/solutions/3109452/c-easiest-beginner-friendly-sol-set-two-pointer-approach-o-n-2-logn-time-and-o-n-space/
 //Optimized Approach - O(n^2 logn + nlogn) - o(n^2 logn) time and O(n) space
 class Solution {
 public:
