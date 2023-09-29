@@ -1,4 +1,4 @@
-/* https://leetcode.com/problems/course-schedule/description/
+/* https://leetcode.com/problems/course-schedule/solutions/3756938/beat-s-100-topo-c-java-python-beginner-friendly/
     Courses & prerequisites, return true if can finish all courses
     Ex. numCourses = 2, prerequisites = [[1,0]] -> true
 
